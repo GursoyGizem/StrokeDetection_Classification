@@ -1,0 +1,12 @@
+backend/* filter=lfs diff=lfs merge=lfs -text
+frontend/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/efficientNetB2/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/resNet18/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/resNet34/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/resNet50/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/* filter=lfs diff=lfs merge=lfs -text
+BinaryClassification/*.zip filter=lfs diff=lfs merge=lfs -text
+StrokeTypeClassification/*.zip filter=lfs diff=lfs merge=lfs -text
+StrokeTypeClassification/denseNet/* filter=lfs diff=lfs merge=lfs -text
+StrokeTypeClassification/efficientNetB2/* filter=lfs diff=lfs merge=lfs -text
+StrokeTypeClassification/resNet50/* filter=lfs diff=lfs merge=lfs -text
