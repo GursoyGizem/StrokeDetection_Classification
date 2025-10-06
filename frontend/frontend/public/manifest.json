@@ -1,0 +1,15 @@
+{
+  "short_name": "İnme Tespit Sistemi",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "160X160",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
